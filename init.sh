@@ -8,4 +8,6 @@ git branch
 git remote -v
 git status
 git log
+git pull origin main
+git config pull.rebase true
 
