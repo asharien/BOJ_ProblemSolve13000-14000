@@ -10,4 +10,5 @@ git status
 git log
 git pull origin main
 git config pull.rebase true
+git branch --set-upstream-to=origin/main
 
